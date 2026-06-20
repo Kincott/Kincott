@@ -11,7 +11,7 @@ Still at the beginning of my journey, exploring both front and back while sharpe
 <a href="https://x.com/xKincott"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
 <a href="https://discord.com/users/367590224957669380"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
 <a href="https://youtube.com/@Kincott"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;
-<a href="https://twitch.tv/Kincott"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+<a href="https://twitch.tv/xKincott"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
 
 ---
 
