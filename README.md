@@ -35,6 +35,18 @@ Still at the beginning of my journey, exploring both front and back while sharpe
 
 ---
 
+`Languages I speak`
+
+<table>
+  <tr>
+    <td align="center" width="80">🇫🇷<br><sub>Français</sub></td>
+    <td align="center" width="80">🇬🇧<br><sub>English</sub></td>
+    <td align="center" width="80">🇩🇪<br><sub>Deutsch</sub></td>
+  </tr>
+</table>
+
+---
+
 ### 🛠 Stack
 
 `Languages`
